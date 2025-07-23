@@ -28,8 +28,6 @@ Note:
 -----
 This script uses PowerPoint automation via `win32com.client` and only works on Windows.
 
-Author: Your Name
-License: MIT
 """
 
 import win32com.client
